@@ -4,5 +4,8 @@ This bot is designed to inform customers about new promotions, as well as enteri
 
 
 version 1.0
+
 language: python
+
 database: sqlite3
+
